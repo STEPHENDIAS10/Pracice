@@ -19,5 +19,6 @@ ct++;
 cout<<ct<<"\n";
 }
 
+cout<<"Hello"<<endl;  //just add
 return 0;
 }
