@@ -20,5 +20,6 @@ cout<<ct<<"\n";
 }
 
 cout<<"Hello"<<endl;  //just add
+cout<<"Hii"<<endl;
 return 0;
 }
